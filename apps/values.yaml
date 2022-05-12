@@ -1,6 +1,7 @@
 spec:
   destination:
-    server: https://kubernetes.default.svc
+    # server: https://kubernetes.default.svc
+    server: https://pir.nasiccloud.io:8443
   source:
     repoURL: https://github.com/lunawarrior/argocd-example-apps
     targetRevision: HEAD
