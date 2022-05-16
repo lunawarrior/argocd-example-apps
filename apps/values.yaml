@@ -5,4 +5,4 @@ spec:
   source:
     repoURL: https://github.com/lunawarrior/argocd-example-apps
     targetRevision: HEAD
-  namespace: kevin-argocd
+  namespace: kevin2-argocd
